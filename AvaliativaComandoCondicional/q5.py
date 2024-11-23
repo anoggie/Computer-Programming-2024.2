@@ -90,6 +90,5 @@ try:
             # Exibe a data em dia juliano para o usuário
             print('A data', dia,'/', mes, '/' ,ano, 'corresponde ao dia juliano:', dia_juli)
 
-
 except ValueError:
     print('Erro: Insira apenas números!')
