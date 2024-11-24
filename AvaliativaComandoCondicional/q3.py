@@ -8,6 +8,7 @@ try:
     min = 1
     max = 100
 
+    
     # print(sorteado)  <- Um checker para os desenvolvedores validar o funcionamento das condicionais do restante do código
 
     print('Tente acertar o número sorteado de 1 a 100 em até 4 tentativas. Boa sorte!')
