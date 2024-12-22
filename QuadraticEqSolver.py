@@ -25,5 +25,5 @@ try:
             x2 = (-b - (delta)**0.5) / (2 * a)
             print("A equação possui duas raízes reais: x1 =", x1, "e x2 =", x2)
 
-except ErroValor:
+except ValueError:
     print("Erro: Te pedi número, não letra >:(")
